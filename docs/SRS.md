@@ -168,7 +168,11 @@ The centralized database splits operations across distinct tables mapped to spec
 ## 4. Appendices
 
 ### Appendix A: Glossary & Models
-* *This section embeds the centralized Entity-Relationship Diagram (ERD) mapping relational keys across the 7 modules, along with Data Flow Diagrams (DFDs) tracing the patient's clinical path.*
+* *Components Diagram :
+
+<img width="2813" height="2078" alt="Master Component Diagram" src="https://github.com/user-attachments/assets/33becd8f-ec74-46ec-9b6e-8d4437bbcbcd" />
+
+[link to figma](https://www.figma.com/design/8PRk7D8kxsTtLTvsRspmvB/%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D9%87%D9%86%D8%AF%D8%B3%D8%A9?node-id=40-25&t=39cKEHDXS5M909LG-1)
 
 ### Appendix B: GitHub Traceability Checklist
 Before final sign-off, each team lead must verify the following:
